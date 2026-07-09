@@ -5,3 +5,5 @@ Project 2(outliers 1) https://project-2-avyqu5owi6tu8chcgfvgvo.streamlit.app/
 Project 3(outliers 2) https://nbvkmmcbleusbdphbtn5kw.streamlit.app/
 
 Project 4(logistic regression) https://project-4-j8hc2raqvdbar77o9hyffk.streamlit.app/
+
+Project 5(gender classifier) https://gender-classifier-k7h4nnzfehxqn2x9vnr2o9.streamlit.app/
