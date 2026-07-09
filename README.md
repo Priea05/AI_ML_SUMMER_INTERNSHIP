@@ -9,3 +9,5 @@ Project 4(logistic regression) https://project-4-j8hc2raqvdbar77o9hyffk.streamli
 Project 5(gender classifier) https://gender-classifier-k7h4nnzfehxqn2x9vnr2o9.streamlit.app/
 
 Project 6(K means) https://k-means-lppf8mykbasyzwnltngnnr.streamlit.app/
+
+Project 7(CNN) https://gender-classifier-using-cnn-nb6933nfvcvsxyuzraxcaw.streamlit.app/
