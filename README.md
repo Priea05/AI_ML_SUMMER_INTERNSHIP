@@ -12,4 +12,4 @@ Project 6(K means) https://k-means-lppf8mykbasyzwnltngnnr.streamlit.app/
 
 Project 7(CNN) https://gender-classifier-using-cnn-nb6933nfvcvsxyuzraxcaw.streamlit.app/
 
-Project 8(KNN) https://project-8knn-agudsahqkgkibpdtfsede8.streamlit.app/
+Project 8(KNN) https://adrq67am7bdbsmhwbubvpl.streamlit.app/
