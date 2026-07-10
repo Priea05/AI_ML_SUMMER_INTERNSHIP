@@ -13,3 +13,5 @@ Project 6(K means) https://k-means-lppf8mykbasyzwnltngnnr.streamlit.app/
 Project 7(CNN) https://gender-classifier-using-cnn-nb6933nfvcvsxyuzraxcaw.streamlit.app/
 
 Project 8(KNN) https://project-8knn-8yqn5xbxsptpgyxsqzovgs.streamlit.app/
+
+Project 9(Eye classifier using CNN) https://project-9eye-classifier-gqny2ywuklyny9wt53h5gt.streamlit.app/
